@@ -53,5 +53,5 @@ Ubuntu operating system and GCC compiler to compile the C code.
 - https://www.geeksforgeeks.org/thread-functions-in-c-c/
 - https://man7.org/linux/man-pages/man3/pthread_create.3.html
 - https://man7.org/linux/man-pages/man3/pthread_join.3.html
-- 
+- https://github.com/sankronaldo/CS-252-OS-Assignment
 idea to begin with is taken from first link in this refernces.
