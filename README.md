@@ -1,2 +1,4 @@
-# CS-252-Minor-Assignment
-Github repository for the CS-252 Minors course assignment on Operating Systems
+# CS-252-OS-Assignment
+
+The assignment consists of two questions from the exercise section of the 10th edition of Operating
+System Concepts by Abraham Silberschatz, Peter Baer Galvin and Greg Gagne.
