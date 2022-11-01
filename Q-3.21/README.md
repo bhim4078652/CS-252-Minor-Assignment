@@ -44,3 +44,10 @@ Child process may terminate due to any of these:
 - It receives a signal (from the OS or another process) whose default action is to terminate.
 
 ![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-3.21/pic%202.png)
+
+## Inference
+The child process created by parent process is able to print the Collatz Conjecture sequence and once the child process exits then the parent comes out of waiting state and exectues rest of the code.
+
+##  Reference(s)
+
+
