@@ -25,3 +25,6 @@ Ubuntu operating system and GCC compiler to compile the C code.
 - In linux os fork() system call is used to create child process.
 - Once the parent process calls fork() system call then parents wait for child process to complete the work assigned by calling wait(NULL) system call.
 - This code is applicable only for non negative integers as input.
+
+## About fork() system call
+-Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process).
