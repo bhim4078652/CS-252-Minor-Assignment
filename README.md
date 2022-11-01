@@ -12,6 +12,8 @@ n =
 {
 n∕2, if n is even
 3 × n + 1, if n is odd
+}
+
 The conjecture states that when this algorithm is continually applied,
 all positive integers will eventually reach 1. For example, if n = 35, the
 sequence is
