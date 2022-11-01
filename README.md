@@ -7,12 +7,9 @@ System Concepts by Abraham Silberschatz, Peter Baer Galvin and Greg Gagne.
 **[Question 1: Chapter 3- 3.21](https://github.com/bhim4078652/CS-252-Minor-Assignment/tree/main/Q-3.21)**
 
 
-The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
-n ={  
-      n∕2, if n is even
-      
-      3 × n + 1, if n is odd
-   }
+The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm: 
+     n= n∕2, if n is even
+     n= 3 × n + 1, if n is odd
 
 
 The conjecture states that when this algorithm is continually applied,
