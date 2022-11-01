@@ -34,3 +34,13 @@ Ubuntu operating system and GCC compiler to compile the C code.
 - Negative Value: creation of a child process was unsuccessful.
 - Zero: Returned to the newly created child process.
 - Positive value: Returned to parent or caller. The value contains process ID of newly created child process.
+
+## About wait() system call
+A call to wait() blocks the calling process until one of its child processes exits or a signal is received. After child process terminates, parent continues its execution after wait system call instruction. 
+
+Child process may terminate due to any of these: 
+- It calls exit();
+- It returns (an int) from main
+- It receives a signal (from the OS or another process) whose default action is to terminate.
+
+![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-3.21/3.21%20os%20assignment.png)
