@@ -18,4 +18,4 @@ Ubuntu operating system and GCC compiler to compile the C code.
 
 **Output**
 
- ![App Screenshot]()
+ ![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-4.22/4.22%20pic%201.png)
