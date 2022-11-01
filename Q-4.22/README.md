@@ -31,3 +31,16 @@ Ubuntu operating system and GCC compiler to compile the C code.
                    const pthread_attr_t * attr, 
                    void * (*start_routine)(void *), 
                    void *arg);
+- thread: pointer to an unsigned integer value that returns the thread id of the thread created.
+- attr: pointer to a structure that is used to define thread attributes like detached state, scheduling policy, stack address, etc. Set to NULL for default thread attributes.
+- start_routine:sub routine address on which the thread will operate.
+- arg: pointer to void that contains the arguments to the function defined in the earlier argument
+- returns 0 if thread is sucessfully created else returns non zero numbers.
+
+## About pthread_join system call
+- pthread_join: used to wait for the termination of a thread.
+- int pthread_join(pthread_t th, void **thread_return);
+- th: thread id of the thread for which the current thread waits.
+- thread_return: pointer to the location where the exit status of the thread mentioned in th is stored.
+
+   
