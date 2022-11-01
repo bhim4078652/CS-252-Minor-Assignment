@@ -102,8 +102,8 @@ int main()
 	
 	// thread_join is same as wait system call which waits for particulat thread to complete its execution.
 	pthread_join(t1,(void **)(&result1));
-    pthread_join(t2,(void **)(&result2));
-    pthread_join(t3,(void **)(&result3));
+   	pthread_join(t2,(void **)(&result2));
+    	pthread_join(t3,(void **)(&result3));
 	
 	// printing the results
 	printf("The average value is:%f\n",*result1);
