@@ -43,4 +43,4 @@ Child process may terminate due to any of these:
 - It returns (an int) from main
 - It receives a signal (from the OS or another process) whose default action is to terminate.
 
-![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-3.21/3.21%20os%20assignment.png)
+![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-3.21/pic%202.png)
