@@ -43,4 +43,15 @@ Ubuntu operating system and GCC compiler to compile the C code.
 - th: thread id of the thread for which the current thread waits.
 - thread_return: pointer to the location where the exit status of the thread mentioned in th is stored.
 
-   
+
+## Inference
+- when we have large amount of numbers(million typically) then we can observe that time taken by threaded process will take less time compared to non threaded process.
+- If the amount of numbers are small (100 typically) then we cannot observe much significant change time of execution because the thread creation and maintance will contribute more towards the total execution time.
+
+##  Reference(s)
+- https://gist.github.com/Jabiribn/e58bf13c678953891900e5f982b48037
+- https://www.geeksforgeeks.org/thread-functions-in-c-c/
+- https://man7.org/linux/man-pages/man3/pthread_create.3.html
+- https://man7.org/linux/man-pages/man3/pthread_join.3.html
+- 
+idea to begin with is taken from first link in this refernces.
