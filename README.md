@@ -45,3 +45,7 @@ the parent thread will output the values once the workers have exited.
 (We could obviously expand this program by creating additional threads
 that determine other statistical values, such as median and standard
 deviation.)
+
+
+## Author(s)
+Bhimaraddy B Y - 201EC170
