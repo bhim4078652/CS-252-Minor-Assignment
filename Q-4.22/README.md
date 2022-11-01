@@ -14,3 +14,8 @@ Ubuntu operating system and GCC compiler to compile the C code.
  - Open the terminal and navigate to the directory where the file **sourcecode.c** is present
 -  gcc -pthread sourcecode.c
 - ./a.out
+
+
+**Output**
+
+ ![App Screenshot]()
