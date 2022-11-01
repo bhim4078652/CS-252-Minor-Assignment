@@ -18,4 +18,4 @@ Ubuntu operating system and GCC compiler to compile the C code.
 
 **Output**
 
- ![App Screenshot](https://github.com/sankronaldo/CS-252-OS-Assignment/blob/main/Q2-4.24/images/2.png)
+ ![App Screenshot](https://github.com/bhim4078652/CS-252-Minor-Assignment/blob/main/Q-3.21/3.21%20os%20assignment.png)
