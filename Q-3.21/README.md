@@ -1,4 +1,4 @@
-# Q 3.21 Solution
+# Q 3.21 Solution (Collatz Conjecture sequence)
 
 Note: All the information written below is specific to Ubuntu operating system
 
@@ -55,4 +55,4 @@ The child process created by parent process is able to print the Collatz Conject
 - https://man7.org/linux/man-pages/man2/fork.2.html
 - https://man7.org/linux/man-pages/man2/wait.2.html
 
-idea to begin with is taken from first link in this refernce.
+idea to begin with is taken from first link in this refernces.
