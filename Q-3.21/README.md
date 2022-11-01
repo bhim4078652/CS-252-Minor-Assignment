@@ -14,3 +14,8 @@ Ubuntu operating system and GCC compiler to compile the C code.
  - Open the terminal and navigate to the directory where the file **sourcecode.c** is present
 -  gcc sourcecode.c
 - ./a.out
+
+
+**Output**
+
+ ![App Screenshot](https://github.com/sankronaldo/CS-252-OS-Assignment/blob/main/Q2-4.24/images/2.png)
